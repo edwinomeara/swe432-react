@@ -1,4 +1,21 @@
-.App {
+.userInput {
+  width: 100%;
+}
+
+.text1 {
+  font-size: 150%;
+}
+
+.text2 {
+  font-size: 175%;
+  font-weight: bold;
+}
+
+.text3 {
+  color: white;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +52,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
